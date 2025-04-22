@@ -1,0 +1,7 @@
+
+# Ігноруємо секретні файли
+serviceAccountKey.json
+
+# Node.js
+node_modules/
+
